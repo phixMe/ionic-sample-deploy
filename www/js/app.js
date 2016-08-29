@@ -37,7 +37,7 @@ angular.module('starter', ['ionic', 'ionic.cloud', 'starter.controllers', 'start
 
               $ionicPopup.show({
                 title: 'Update available',
-                subTitle: 'An update was just downloaded. Would you like to restart your app to use the latest features?',
+                subTitle: 'A new update is available, would you like to update to the latest version?  ',
                 buttons: [
                   { text: 'Not now' },
                   {
